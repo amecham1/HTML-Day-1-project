@@ -1,0 +1,75 @@
+/*body{
+  background-image:url("img/Copper Background.jpeg");
+  background-repeat: no-repeat;
+  background-size:  cover;
+}*/
+
+.nav-header{
+  width: 100%;
+  height: 18vh;
+}
+
+.icon{
+  width:30%;
+  height: 50%;
+  display: inline-block;
+  margin-top: 4vh;
+  background-color: blue;
+}
+.ham{
+  float: right;
+}
+
+.icon img{
+  max-height: 100%;
+  padding-top: 8%;
+  padding-left: 50%;
+  max-width: 100%;
+}
+.ham img{
+  padding-top: 9%;
+}
+
+.info-body{
+  width: 100%;
+  height: 82vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.title{
+  width: 85%;
+  height: 15vh;
+  margin-top: 70px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+}
+.title h1{
+  font-size: 3em;
+  text-align: center;
+  padding-top: 20px;
+}
+.line{
+  width: 25%;
+  height: 15px;
+  margin-top: 20px;
+
+}
+
+.text{
+  width: 75%;
+  height: 15vh;
+  margin-top: 20px;
+}
+.words{
+  text-align: center;
+  font-size: .8em;
+}
+
+.selection{
+  width: 10vh;
+  height: 10vh;
+}
